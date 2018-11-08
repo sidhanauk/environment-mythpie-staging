@@ -16,6 +16,9 @@ dependencies:
 - name: node-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: open-liberty
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
 - name: python-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
